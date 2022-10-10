@@ -5,7 +5,7 @@ import { Link } from 'react-scroll';
 
 import { AiOutlineArrowRight } from "react-icons/ai"
 
-export default function () {
+export default function Home() {
   return (
     <div
       name="home"
